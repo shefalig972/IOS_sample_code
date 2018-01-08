@@ -1,0 +1,1 @@
+This is an IOS Application sample code in Objective C. This code contains the functionality to show the nearest places location from using Google places API.
